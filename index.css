@@ -120,7 +120,7 @@
     padding: 0px;
     gap: 24px;
 
-    width: 144px;
+    /* width: 144px; */
     height: 264px;
     flex: none;
     order: 0;
